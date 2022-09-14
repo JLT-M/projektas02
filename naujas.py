@@ -1,0 +1,1 @@
+print("Antrasis bandymas")
